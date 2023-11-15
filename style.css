@@ -1,0 +1,12 @@
+body{
+    background-color: gray;
+    font-family: sans-serif;
+}
+
+#ulist {
+    background-color: brown;
+}
+
+.bggold {
+    background: goldenrod;
+}
